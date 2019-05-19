@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">XumerHere</string>
+    <string name="bt_nav_home">Home</string>
+    <string name="bt_nav_nearby">Nearby</string>
+    <string name="bt_nav_save">Save</string>
+    <string name="bt_nav_me">Me</string>
+</resources>
